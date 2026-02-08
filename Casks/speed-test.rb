@@ -1,6 +1,6 @@
 cask "speed-test" do
   version "1.2.0"
-  sha256 "0d03da01016fed61eaa14e6323f7f8fe6ea4bd93dee8d3b5fae891cf1f9fcb3a"
+  sha256 "29fb1147ebde7ebad0d49e8dd9981ff12ceda6ff4e3390a03b1b050531d9dcba"
 
   url "https://github.com/hsavit1/SpeedTest/releases/download/v#{version}/SpeedTest-v#{version}.dmg"
   name "Speed Test"
